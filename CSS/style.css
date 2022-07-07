@@ -1,0 +1,133 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, san-serif
+}
+
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  line-height: 2;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.h2 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+  width: 60%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 60px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 20px;
+}
+
+.photoshop {
+  float: left;
+  margin-right: 30px;
+  width: 150px;
+  height: 150px;
+}
+
+.html {
+  float: right;
+  margin-left: 30px;
+  width: 200px;
+  height: 200px;
+}
+
+.css {
+  float: left;
+  margin-right: 30px;
+  width: 130px;
+  height: 180px;
+}
+
+hr {
+  margin: 100px auto 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  height: 0;
+  width: 5%
+}
+
+.skill-row {
+  margin: 50px auto 50px auto;
+  text-align: left;
+  width: 50%
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  margin: auto;
+  width: 30%
+}
+
+.message {
+  color: #66BFBF;
+  margin: 40px auto 60px;
+  width: 30%
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px 0;
+}
+
+.footer-link {
+  margin: 10px 10px;
+}
+
+.get {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+}
+
+
+.profile {
+  margin-left: 50px;
+}
